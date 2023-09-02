@@ -3,7 +3,7 @@
 Tableau Desktop Specialist
 ## Data Analytics / Marketing Analytics 
 - [Google Analytics Certification](https://skillshop.credential.net/6472d66b-2d01-418f-8ca5-c216bc6101b9?record_view=true)
-- HubSpot Digital Marketing
+- [HubSpot Digital Marketing](https://app.hubspot.com/academy/achievements/hhyz7sqn/en/1/amelia-jiewen-tang/digital-marketing)
 ## Cloud 
 - AWS Cloud Practitioner
 ## Data Engineering 
